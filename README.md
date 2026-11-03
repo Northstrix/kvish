@@ -3,6 +3,8 @@ A bit unorthodox graphic design tool.
 
 Link: https://kvish.netlify.app/
 
+SourceForge page: https://sourceforge.net/projects/kvish/
+
 ![Preview](https://raw.githubusercontent.com/Northstrix/kvish/refs/heads/main/Preview.png)
 
 Photo by [Sepehr Samavati](https://unsplash.com/@sepehrsamavati?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-flower-with-a-blurry-background-pItZQNGp8dA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
