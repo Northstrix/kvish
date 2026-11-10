@@ -17,6 +17,8 @@ The app is fully localized into:
 
 ✅Italian (Italy)
 
+✅Spanish (Latin America)
+
 ✅German (Hochdeutsch)
 
 ### Attribution & Shader Modification Disclosure
