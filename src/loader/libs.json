@@ -1,0 +1,51 @@
+[
+ {
+  "match": "three(\\.js|/build)",
+  "name": "three.js",
+  "global": "THREE",
+  "npm": "three",
+  "file": "build/three.min.js"
+ },
+ {
+  "match": "jszip",
+  "name": "JSZip",
+  "global": "JSZip",
+  "npm": "jszip",
+  "file": "dist/jszip.min.js"
+ },
+ {
+  "match": "react-dom",
+  "name": "React DOM",
+  "global": "ReactDOM",
+  "npm": "react-dom",
+  "file": "umd/react-dom.production.min.js"
+ },
+ {
+  "match": "/react@|react\\.production|/react/",
+  "name": "React",
+  "global": "React",
+  "npm": "react",
+  "file": "umd/react.production.min.js"
+ },
+ {
+  "match": "framer-motion",
+  "name": "Framer Motion",
+  "global": "Motion",
+  "npm": "framer-motion",
+  "file": "dist/framer-motion.js"
+ },
+ {
+  "match": "chroma",
+  "name": "chroma.js",
+  "global": "chroma",
+  "npm": "chroma-js",
+  "file": "chroma.min.js"
+ },
+ {
+  "match": "lucide",
+  "name": "Lucide",
+  "global": "lucide",
+  "npm": "lucide",
+  "file": "dist/umd/lucide.min.js"
+ }
+]

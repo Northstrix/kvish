@@ -1,0 +1,7 @@
+# Netlify builds the static site itself; or run `npm run build` locally and upload the production/ folder.
+[build]
+  command = "npm run build"
+  publish = "production"
+
+[build.environment]
+  NODE_VERSION = "22"
